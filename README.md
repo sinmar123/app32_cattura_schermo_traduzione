@@ -6,6 +6,28 @@ Applicazione desktop nativa per **Windows x64** che permette di catturare testo 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
+---
+
+## 🎯 **PER UTENTI NON TECNICI** - INIZIA QUI!
+
+**Se non sei uno sviluppatore**, segui queste guide semplificate:
+
+📖 **[INIZIA_QUI.txt](INIZIA_QUI.txt)** ⭐ **LEGGI QUESTO PER PRIMO!**
+📖 **[LEGGIMI_PRIMO.md](LEGGIMI_PRIMO.md)** - Guida completa passo-passo
+📖 **[GUIDA_FACILE.md](GUIDA_FACILE.md)** - Istruzioni semplificate
+
+**File da usare (semplici click):**
+- 📄 `INSTALLA.bat` ← Doppio click per installare (solo prima volta)
+- 📄 `AVVIA.bat` ← Doppio click per avviare l'app
+
+**In 4 passi:**
+1. Scarica questo progetto (ZIP o git clone)
+2. Installa Node.js da https://nodejs.org
+3. Doppio click su `INSTALLA.bat`
+4. Doppio click su `AVVIA.bat`
+
+---
+
 ## ✨ Funzionalità
 
 - 🖼️ **Cattura Schermo Selettiva**: Selezione rettangolare come lo Strumento di Cattura Windows

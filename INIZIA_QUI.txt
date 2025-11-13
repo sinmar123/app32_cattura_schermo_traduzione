@@ -1,0 +1,118 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║           📸 SCREEN TRANSLATOR - WINDOWS APP                 ║
+║                                                              ║
+║              Cattura • Estrai Testo • Traduci                ║
+║                        EN → IT                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+🎯 PRIMA INSTALLAZIONE (Fai Una Sola Volta)
+══════════════════════════════════════════════════════════════
+
+1. Installa Node.js:
+   Vai su: https://nodejs.org/it
+   Scarica e installa (gratis)
+
+2. Doppio click su:
+   📄 INSTALLA.bat
+
+3. Aspetta 3-5 minuti
+
+4. Scrivi "S" quando chiede se vuoi avviare l'app
+
+✅ Fatto!
+
+
+🚀 AVVIO APP (Dopo Prima Installazione)
+══════════════════════════════════════════════════════════════
+
+Ogni volta che vuoi usare l'app:
+
+→ Doppio click su: 📄 AVVIA.bat
+
+L'app si apre in 2 secondi!
+
+
+🎮 COME USARE L'APP
+══════════════════════════════════════════════════════════════
+
+1. Premi: Ctrl + Shift + C
+   (o clicca "Nuova Cattura")
+
+2. Trascina il mouse sull'area con testo inglese
+
+3. Rilascia il mouse
+
+4. Aspetta 5-10 secondi
+
+5. Leggi la traduzione italiana! 🇮🇹
+
+
+💡 TRUCCHI VELOCI
+══════════════════════════════════════════════════════════════
+
+• Ctrl+Shift+C = Cattura schermo veloce
+• ESC = Annulla cattura
+• Chiudi finestra = App va in barra (non si chiude)
+• Click destro icona barra = Menu opzioni
+
+
+📚 GUIDE DETTAGLIATE
+══════════════════════════════════════════════════════════════
+
+Se hai problemi o vuoi saperne di più, apri questi file:
+
+📄 LEGGIMI_PRIMO.md    → Guida completa passo-passo
+📄 GUIDA_FACILE.md     → Istruzioni semplificate
+📄 README.md           → Documentazione tecnica
+📄 QUICKSTART.md       → Guida rapida 5 minuti
+
+
+🎁 EXTRA
+══════════════════════════════════════════════════════════════
+
+Vuoi un'icona sul Desktop?
+→ Doppio click su: 📄 CREA_COLLEGAMENTO_DESKTOP.bat
+
+Vuoi che l'app parta automaticamente all'avvio?
+→ Leggi LEGGIMI_PRIMO.md (sezione BONUS)
+
+
+❓ PROBLEMI COMUNI
+══════════════════════════════════════════════════════════════
+
+⚠ "npm non riconosciuto"
+   → Installa Node.js (passo 1)
+
+⚠ "Installazione fallita"
+   → Esegui INSTALLA.bat come Amministratore
+   (Click destro → Esegui come amministratore)
+
+⚠ "Shortcut non funziona"
+   → Esegui AVVIA.bat come Amministratore
+
+⚠ "Non trova testo"
+   → Testo troppo piccolo o sfocato
+   → Assicurati sia in inglese
+
+⚠ "Traduzione non funziona"
+   → Verifica connessione internet
+
+
+📞 SUPPORTO
+══════════════════════════════════════════════════════════════
+
+GitHub Issues:
+https://github.com/sinmar123/app32_cattura_schermo_traduzione/issues
+
+
+════════════════════════════════════════════════════════════════
+
+            🚀 INIZIA CON: INSTALLA.bat
+
+            Poi usa sempre: AVVIA.bat
+
+════════════════════════════════════════════════════════════════
+
+Versione: 1.0.0 | Licenza: MIT | Windows 10/11 x64
